@@ -1,5 +1,7 @@
 # Neo VR: A VR multiplayer experience for improving team working
 
+[See a video demonstration clicking here](https://youtu.be/fe8MAGTPMJ0)
+
 This project was developed at Hospital virtual Valdecilla following the need of finding a more immersive way of training NEO (name possible contributions, stablish roles and orient in tasks), an algorithm for managing team working situations. Until now, for learning and applying this scheme, HvV instructors use to propose a roleplay where the players were outside the hospital, isolated from other persons and someone had got injured. They had to manage the situation together, naming the objects and abilities they had and talking about what they would do.
 
 The previous experience achieved by the Innovation area of HvV applying virtual reality to surgery guidance and individual training, made us think that if they were using VR glasses, we could improve this kind of training sessions and made the players feel more in connection with the problem they had to deal with and how the algorithm could help them. We had the challenge of the HvV courses’ attenders having totally different backgrounds, ages and levels of technology skills. Moreover, in general they are not usual video game players, so we had to work with easily understandable mechanics. 
